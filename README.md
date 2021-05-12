@@ -1,2 +1,2 @@
 # CAVC-BTechThesis
-A repository for my B.Tech. Project thesis
+This repository contains my B.Tech. thesis on Compound Arbitrarily Varying Channels. 
